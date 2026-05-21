@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "De'Longhi Dedica EC685",
+    "precio": 180000,
+    "categoria": "espresso",
+    "imagen": "/images/delonghi-dedica.jpg",
+    "descripcion": "Máquina de espresso compacta con bomba de 15 bares. Ideal para uso doméstico. Incluye vaporizador para leche y filtros para café molido y monodosis.",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "nombre": "Nespresso Vertuo Pop",
+    "precio": 95000,
+    "categoria": "cápsulas",
+    "imagen": "/images/nespresso-vertuo.jpg",
+    "descripcion": "Cafetera de cápsulas con tecnología Centrifusion. Prepara espresso, doble espresso, gran lungo y café en taza grande. Incluye kit de bienvenida con 12 cápsulas.",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Bodum Chambord 1L",
+    "precio": 42000,
+    "categoria": "prensa francesa",
+    "imagen": "/images/bodum-chambord.jpg",
+    "descripcion": "Prensa francesa clásica de 1 litro con marco de acero inoxidable. Prepara hasta 8 tazas. Diseño icónico danés, apto para lavavajillas.",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "nombre": "Hario V60 Starter Kit",
+    "precio": 38000,
+    "categoria": "pour over",
+    "imagen": "/images/hario-v60.jpg",
+    "descripcion": "Kit completo pour over con dripper V60, jarra de vidrio, 40 filtros y cucharilla dosificadora. El método favorito de los baristas profesionales.",
+    "stock": 7
+  },
+  {
+    "id": 5,
+    "nombre": "Bialetti Moka Express 6 tazas",
+    "precio": 28000,
+    "categoria": "moka",
+    "imagen": "/images/bialetti-moka.jpg",
+    "descripcion": "La cafetera italiana original desde 1933. Fabricada en aluminio de alta calidad, prepara 6 tazas de café intenso y aromático. Apta para gas, eléctrica y vitrocerámica.",
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "nombre": "Breville Barista Express",
+    "precio": 420000,
+    "categoria": "espresso",
+    "imagen": "/images/breville-barista.jpg",
+    "descripcion": "Máquina de espresso con molinillo integrado de fresas cónicas. Control preciso de temperatura y presión. La solución todo-en-uno para café de especialidad en casa.",
+    "stock": 3
+  },
+  {
+    "id": 7,
+    "nombre": "Dolce Gusto Genio S Plus",
+    "precio": 78000,
+    "categoria": "cápsulas",
+    "imagen": "/images/dolcegusto-genio.jpg",
+    "descripcion": "Cafetera de cápsulas con pantalla táctil y conectividad Wi-Fi. Compatible con más de 40 variedades de bebidas calientes y frías. Depósito de 800ml extraíble.",
+    "stock": 6
+  },
+  {
+    "id": 8,
+    "nombre": "Chemex 6 tazas",
+    "precio": 55000,
+    "categoria": "pour over",
+    "imagen": "/images/chemex.jpg",
+    "descripcion": "Cafetera pour over de vidrio borosilicato con mango de madera. Diseño expuesto en el MoMA de Nueva York. Produce un café limpio y balanceado.",
+    "stock": 4
+  }
+]
